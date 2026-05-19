@@ -15,7 +15,7 @@ Hi my name is Matthew Beavers.
 
 ## links
 - [Personal Experience](posts/personal-experience)
-- [Moving Forward](posts/moving-forward)
 - [Student Testimonials](posts/student-testimonials)
+- [Moving Forward](posts/moving-forward)
 - [Resources](posts/resources)
 - [About Page](posts/about-page)
