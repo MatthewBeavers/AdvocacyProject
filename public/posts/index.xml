@@ -24,24 +24,17 @@
     </item>
     <item>
       <title>Personal Experience</title>
-      <link>http://localhost:1313/AdvocacyProject/posts/personal-experiencee/</link>
+      <link>http://localhost:1313/AdvocacyProject/posts/personal-experience/</link>
       <pubDate>Mon, 18 May 2026 18:24:31 -0700</pubDate>
-      <guid>http://localhost:1313/AdvocacyProject/posts/personal-experiencee/</guid>
+      <guid>http://localhost:1313/AdvocacyProject/posts/personal-experience/</guid>
       <description></description>
     </item>
     <item>
       <title>Student Testimonials</title>
-      <link>http://localhost:1313/AdvocacyProject/posts/student-testimonialse/</link>
+      <link>http://localhost:1313/AdvocacyProject/posts/student-testimonials/</link>
       <pubDate>Mon, 18 May 2026 18:24:11 -0700</pubDate>
-      <guid>http://localhost:1313/AdvocacyProject/posts/student-testimonialse/</guid>
+      <guid>http://localhost:1313/AdvocacyProject/posts/student-testimonials/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Home</title>
-      <link>http://localhost:1313/AdvocacyProject/posts/home/</link>
-      <pubDate>Mon, 18 May 2026 18:08:07 -0700</pubDate>
-      <guid>http://localhost:1313/AdvocacyProject/posts/home/</guid>
-      <description>&lt;p&gt;Hi my name is Matthew&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://matthewbeavers.github.io/AdvocacyProject/posts/moving-forward/&#34;&gt;Moving Forward&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

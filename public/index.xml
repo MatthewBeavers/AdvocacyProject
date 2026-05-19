@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AdvocacyProject</title>
+    <title>Home on AdvocacyProject</title>
     <link>http://localhost:1313/AdvocacyProject/</link>
-    <description>Recent content on AdvocacyProject</description>
+    <description>Recent content in Home on AdvocacyProject</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 18:26:18 -0700</lastBuildDate>
@@ -35,13 +35,6 @@
       <pubDate>Mon, 18 May 2026 18:24:11 -0700</pubDate>
       <guid>http://localhost:1313/AdvocacyProject/posts/student-testimonials/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Home</title>
-      <link>http://localhost:1313/AdvocacyProject/posts/home/</link>
-      <pubDate>Mon, 18 May 2026 18:08:07 -0700</pubDate>
-      <guid>http://localhost:1313/AdvocacyProject/posts/home/</guid>
-      <description>&lt;p&gt;Hi my name is Matthew&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;links&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../personal-experience&#34;&gt;Personal Experience&lt;/a&gt;&#xA;&lt;a href=&#34;https://matthewbeavers.github.io/AdvocacyProject/posts/moving-forward/&#34;&gt;Moving Forward&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
