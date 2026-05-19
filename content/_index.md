@@ -18,4 +18,4 @@ Hi my name is Matthew Beavers.
 - [Moving Forward](posts/moving-forward)
 - [Student Testimonials](posts/student-testimonials)
 - [Resources](posts/resources)
-- [About Page](posts/about-page.md)
+- [About Page](posts/about-page)
