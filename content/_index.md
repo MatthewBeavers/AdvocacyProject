@@ -4,7 +4,7 @@ draft = false
 title = 'Home'
 +++
 
-Hi my name is Matthew
+Hi my name is Matthew Beavers. 
 
 
 
@@ -18,3 +18,4 @@ Hi my name is Matthew
 - [Moving Forward](posts/moving-forward)
 - [Student Testimonials](posts/student-testimonials)
 - [Resources](posts/resources)
+- [About Page](posts/about-page.md)
