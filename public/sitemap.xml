@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/home/</loc>
+    <loc>http://localhost:1313/AdvocacyProject/</loc>
+    <lastmod>2026-05-18T18:26:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/</loc>
+    <lastmod>2026-05-18T18:26:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/resources/</loc>
+    <lastmod>2026-05-18T18:26:18-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/moving-forward/</loc>
+    <lastmod>2026-05-18T18:25:07-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/personal-experiencee/</loc>
+    <lastmod>2026-05-18T18:24:31-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/student-testimonialse/</loc>
+    <lastmod>2026-05-18T18:24:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AdvocacyProject/posts/home/</loc>
     <lastmod>2026-05-18T18:08:07-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-18T18:08:07-07:00</lastmod>
+    <loc>http://localhost:1313/AdvocacyProject/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-05-18T18:08:07-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/AdvocacyProject/tags/</loc>
   </url>
 </urlset>

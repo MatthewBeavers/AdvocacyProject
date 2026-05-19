@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Project</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Project</description>
+    <title>Posts on AdvocacyProject</title>
+    <link>http://localhost:1313/AdvocacyProject/posts/</link>
+    <description>Recent content in Posts on AdvocacyProject</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2026 18:26:18 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/AdvocacyProject/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/AdvocacyProject/posts/resources/</link>
+      <pubDate>Mon, 18 May 2026 18:26:18 -0700</pubDate>
+      <guid>http://localhost:1313/AdvocacyProject/posts/resources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moving Forward</title>
+      <link>http://localhost:1313/AdvocacyProject/posts/moving-forward/</link>
+      <pubDate>Mon, 18 May 2026 18:25:07 -0700</pubDate>
+      <guid>http://localhost:1313/AdvocacyProject/posts/moving-forward/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Experience</title>
+      <link>http://localhost:1313/AdvocacyProject/posts/personal-experiencee/</link>
+      <pubDate>Mon, 18 May 2026 18:24:31 -0700</pubDate>
+      <guid>http://localhost:1313/AdvocacyProject/posts/personal-experiencee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Student Testimonials</title>
+      <link>http://localhost:1313/AdvocacyProject/posts/student-testimonialse/</link>
+      <pubDate>Mon, 18 May 2026 18:24:11 -0700</pubDate>
+      <guid>http://localhost:1313/AdvocacyProject/posts/student-testimonialse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/AdvocacyProject/posts/home/</link>
+      <pubDate>Mon, 18 May 2026 18:08:07 -0700</pubDate>
+      <guid>http://localhost:1313/AdvocacyProject/posts/home/</guid>
+      <description>&lt;p&gt;Hi my name is Matthew&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://matthewbeavers.github.io/AdvocacyProject/posts/moving-forward/&#34;&gt;Moving Forward&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

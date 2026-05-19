@@ -6,4 +6,13 @@ title = 'Home'
 
 Hi my name is Matthew
 
+
+
+
+
+
+
+
+## links
+[Personal Experience](../personal-experience)
 [Moving Forward](https://matthewbeavers.github.io/AdvocacyProject/posts/moving-forward/)
