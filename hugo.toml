@@ -1,8 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://matthewbeavers.github.io/AdvocacyProject/'
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'universal'
+title = 'AdvocacyProject'
+theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    

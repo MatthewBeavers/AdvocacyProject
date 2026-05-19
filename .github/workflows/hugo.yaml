@@ -104,3 +104,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+params:
+  date_format: "May 18, 2026"
