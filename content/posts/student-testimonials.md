@@ -5,3 +5,4 @@ title = 'Student Testimonials'
 +++
 
 One of the reasons why I wanted to advocate for this topic is because many of my peers have had issues with the current dining experience at Seattle University.
+My favorite color is green
