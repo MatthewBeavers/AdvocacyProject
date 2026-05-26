@@ -19,3 +19,7 @@ Hi my name is Matthew Beavers, and this is my advocacy project to enhance the Se
 - [Moving Forward](posts/moving-forward)
 - [Resources](posts/resources)
 - [About Page](posts/about-page)
+
+## References
+- Jesch, Elizabeth, et al. “Food Insecurity (FI) in Colleges and Universities: A Needs Assessment of Student Population.” International Journal of Health, Wellness & Society, vol. 11, no. 1, June 2021, pp. 171–87. EBSCOhost, https://doi.org/10.18848/2156-8960/CGP/v11i01/171-187. 
+- 
