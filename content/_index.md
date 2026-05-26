@@ -4,7 +4,7 @@ draft = false
 title = 'Home'
 +++
 
-Hi my name is Matthew Beavers. 
+Hi my name is Matthew Beavers, and this is my advocacy project to enhance the Seattle University dining experience. For students that are in university for a significant portion of the year, the dining experience feels lacking. Not only that, but college students often face food insecurity, and according to a scholarly article published in the International Journal of Health, Wellness & Society states that “about 17 percent of the student population identified themselves to be food insecure.” (Jesch, Elizabeth, et al. 2021) That is many students, and if you were to apply this number to Seattle University’s undergraduate population, that would be approximately 860 students.  
 
 
 
