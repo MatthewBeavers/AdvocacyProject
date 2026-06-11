@@ -6,6 +6,8 @@ title = 'Student Testimonials'
 
 One of the reasons why I wanted to advocate for this topic is because many of my peers have had issues with the current dining experience at Seattle University. So, I decided to interview a few of my peers on what issues they have with the dining experience, and what they want to change.
 
+Common themes were items are overpriced, and should be priced better. There should be better hours, especically on weekends/holidays. For students who are out of state and cannot go home for breaks, it feels like there is very little access to food during said breaks. There were also overall complaints of lack of variety for students who eat on campus all year, and have done for multiple years. The average score out of 10 for dining was a 5.5. Below is the raw converstations and questions.
+
 Interview Questions:
 - How would you rate your SU dining experience 1-10?
   - K: 5
@@ -15,8 +17,6 @@ Interview Questions:
   - E: 5
 - Do you have any specific issues with dining?
   - K:The quality in the essence sometimes is overcooked to a terrifying degree. Food poising, the fruit and vegetables are expired and don’t taste right. I feel like I’ve gotten rice before, and somehow despite it being rice they’ve messed it up. Overall disappointed and I won’t eat at certain places if they serve certain things.
-  - C: Some of the staff seem like they are drunk and give very small portions.
-  - M: I don’t like how rude the sandwich lady is, I stopped going because she was mean to me.  
 - How do you feel about the price of items for dining? 
   - K: OMG, the price is so expensive for the quality you get. It's not good quality food, it's not cooked half the time, or its crunchy, or there's a bone. 
   - C: Stuff is overpriced, and it can be cheaper to eat off campus, Carmelo’s as an example. The entrees are 3 dollars more expensive than they should be. 
